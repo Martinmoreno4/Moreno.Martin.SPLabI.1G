@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1604890602 source:c:\users\user\desktop\utn\tp_laboratorio_1-master\2ndo parcial\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1606524609 source:c:\users\user\desktop\utn\tp_laboratorio_1-master\2ndo parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606521770 c:\users\user\desktop\utn\tp_laboratorio_1-master\2ndo parcial\linkedlist.h
+
+1606525202 source:c:\users\user\desktop\utn\tp_laboratorio_1-master\2ndo parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	"biblioteca.h"
+	"LinkedList.h"
+	"generador.h"
+	"paises.h"
+
+1604890602 c:\users\user\desktop\utn\tp_laboratorio_1-master\2ndo parcial\biblioteca.h
+
+1606525676 source:c:\users\user\desktop\utn\tp_laboratorio_1-master\2ndo parcial\paises.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"paises.h"
+
+1606520422 source:c:\users\user\desktop\utn\tp_laboratorio_1-master\2ndo parcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"paises.h"
+
+1606525775 c:\users\user\desktop\utn\tp_laboratorio_1-master\2ndo parcial\paises.h
+
+1606525447 source:c:\users\user\desktop\utn\tp_laboratorio_1-master\2ndo parcial\generador.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"paises.h"
+	"parser.h"
+	"generador.h"
+
+1606515358 c:\users\user\desktop\utn\tp_laboratorio_1-master\2ndo parcial\parser.h
+
+1606525447 c:\users\user\desktop\utn\tp_laboratorio_1-master\2ndo parcial\generador.h
+	"LinkedList.h"
+
